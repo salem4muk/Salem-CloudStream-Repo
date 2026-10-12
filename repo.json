@@ -1,0 +1,9 @@
+{
+  "name": "Salem Arabic Extensions",
+  "description": "إضافات عربية لتطبيق CloudStream بإشراف سالم",
+  "iconUrl": "https://raw.githubusercontent.com/salem4muk/Salem-CloudStream-Repo/main/icon.png",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/salem4muk/Salem-CloudStream-Repo/builds/plugins.json"
+  ]
+}
